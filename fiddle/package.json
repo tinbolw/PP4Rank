@@ -1,0 +1,18 @@
+{
+  "name": "fiddle",
+  "productName": "fiddle",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "tinbo",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "request": "*"
+  },
+  "devDependencies": {
+    "electron": "16.0.2"
+  }
+}
